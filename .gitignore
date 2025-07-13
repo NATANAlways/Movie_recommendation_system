@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# MacOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Streamlit config
+.streamlit/
