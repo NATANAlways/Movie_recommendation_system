@@ -36,12 +36,15 @@ This recommender system uses **content-based filtering** with **cosine similarit
 
 ## 📂 Project Structure
 
+```
 movie_recommender_system/
-├── app.py # Streamlit web app code
-├── movies_dic.pkl # Movie title dictionary
-├── similarity_1.pkl # Cosine similarity matrix
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+├── app.py                 # Streamlit web app code
+├── movies_dic.pkl         # Movie title dictionary
+├── similarity_1.pkl       # Cosine similarity matrix (excluded from GitHub due to size)
+├── requirements.txt       # Python dependencies
+└── README.md              # Project documentation
+```
+
 
 
 ---
