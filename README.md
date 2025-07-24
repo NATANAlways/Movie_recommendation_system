@@ -31,6 +31,9 @@ This recommender system uses **content-based filtering** with **cosine similarit
 3. **Web Interface:**
    - Streamlit is used to build a simple UI with dropdowns and buttons.
    - Results are displayed instantly in the browser.
+  
+   - <img width="1099" height="671" alt="image" src="https://github.com/user-attachments/assets/37205f4a-695e-4585-b98e-3aa38223ba09" />
+
 
 ---
 
